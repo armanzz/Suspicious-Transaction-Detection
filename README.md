@@ -2,5 +2,5 @@
 Uses 3 classification algorithms to predict whether transaction is successfull or not.
 commands to run:
 >>terminal:
->>pip install numpy pandas matplotlib warnings seaborn scikit-learn.
->>python DMPA.ALGORITHM.py
+>>1. pip install numpy pandas matplotlib warnings seaborn scikit-learn.
+>>2. python DMPA.ALGORITHM.py
